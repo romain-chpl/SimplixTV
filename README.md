@@ -4,7 +4,7 @@
 
 [![Version](https://img.shields.io/badge/version-1.3.2-orange.svg?style=flat-square)](https://github.com/romain-chpl/simplixTV/releases)
 [![Flutter](https://img.shields.io/badge/Flutter-%5E3.13.2-02569B.svg?style=flat-square&logo=flutter)](https://flutter.dev)
-[![Platforms](https://img.shields.io/badge/plateformes-Windows%20%7C%20Android%20%7C%20Android%20TV-blue.svg?style=flat-square)]([https://github.com/romain-chpl/simplixTV/releases](https://github.com/romain-chpl/SimplixTV/releases)
+[![Platforms](https://img.shields.io/badge/plateformes-Windows%20%7C%20Android%20%7C%20Android%20TV-blue.svg?style=flat-square)](https://github.com/romain-chpl/SimplixTV/releases)
 [![License](https://img.shields.io/badge/licence-Propriétaire%20%2F%20Non--commercial-lightgrey.svg?style=flat-square)](https://github.com/romain-chpl/SimplixTV/blob/main/LICENSE)
 
 ---
@@ -80,7 +80,7 @@ Grâce à son moteur de lecture multimédia propulsé par **`libmpv` (media_kit)
 ## 📦 Installation & Démarrage
 
 ### Téléchargements :
-[Realease](https://github.com/romain-chpl/SimplixTV/releases)
+  **Page de téléchargement** : [Realease](https://github.com/romain-chpl/SimplixTV/releases)
 - **Windows :**
   Télécharger le fichier `simplix_installer.exe` depuis la page Realease, puis suivez les instructions de l'installateur.
 - **Android/TV :**
