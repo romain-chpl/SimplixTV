@@ -4,8 +4,8 @@
 
 [![Version](https://img.shields.io/badge/version-1.3.2-orange.svg?style=flat-square)](https://github.com/romain-chpl/simplixTV/releases)
 [![Flutter](https://img.shields.io/badge/Flutter-%5E3.13.2-02569B.svg?style=flat-square&logo=flutter)](https://flutter.dev)
-[![Platforms](https://img.shields.io/badge/plateformes-Windows%20%7C%20Android%20%7C%20Android%20TV-blue.svg?style=flat-square)](https://github.com/romain-chpl/simplixTV/releases)
-[![License](https://img.shields.io/badge/licence-Propriétaire%20%2F%20Non--commercial-lightgrey.svg?style=flat-square)]()
+[![Platforms](https://img.shields.io/badge/plateformes-Windows%20%7C%20Android%20%7C%20Android%20TV-blue.svg?style=flat-square)]([https://github.com/romain-chpl/simplixTV/releases](https://github.com/romain-chpl/SimplixTV/releases)
+[![License](https://img.shields.io/badge/licence-Propriétaire%20%2F%20Non--commercial-lightgrey.svg?style=flat-square)](https://github.com/romain-chpl/SimplixTV/blob/main/LICENSE)
 
 ---
 
@@ -79,43 +79,12 @@ Grâce à son moteur de lecture multimédia propulsé par **`libmpv` (media_kit)
 
 ## 📦 Installation & Démarrage
 
-### Prérequis
-- [Flutter SDK](https://docs.flutter.dev/get-started/install) (version `>= 3.13.2`)
-- Pour Windows : Visual Studio C++ build tools & Inno Setup (pour compiler l'installateur)
-- Pour Android : Android Studio & SDK Android 13+ (API 33+)
-
-### Cloner le projet
-```bash
-git clone https://github.com/romain-chpl/simplixTV.git
-cd simplixTV/simplixtv
-```
-
-### Installer les dépendances
-```bash
-flutter pub get
-```
-
-### Lancer en environnement de développement
-```bash
-# Lancement sur Windows
-flutter run -d windows
-
-# Lancement sur émulateur ou appareil Android / Android TV
-flutter run -d android
-```
-
-### Compiler pour la production
-
-#### 🖥️ Windows (Exécutable Release)
-```bash
-flutter build windows --release
-```
-*Pour générer l'installateur Windows `.exe`, compilez le script Inno Setup situé dans `doc/simplix_windows_compiler_script.iss`.*
-
-#### 📱 Android (APK universel pour TV, Box et Smartphones)
-```bash
-flutter build apk --release
-```
+### Téléchargements :
+[Realease](https://github.com/romain-chpl/SimplixTV/releases)
+- **Windows :**
+  Télécharger le fichier `simplix_installer.exe` depuis la page Realease, puis suivez les instructions de l'installateur.
+- **Android/TV :**
+  Télécharger le fichier `SimplixTV.apk` depuis la page Realease, puis ouvrez le fichier sur un appareil ou une tv Android pour l'installer.
 
 ---
 
