@@ -2,7 +2,7 @@
 
 > **Lecteur IPTV moderne, fluide et performant pour Windows, Android TV, Smartphone et Tablette.**
 
-[![Version](https://img.shields.io/badge/version-1.3.2-orange.svg?style=flat-square)](https://github.com/romain-chpl/simplixTV/releases)
+[![Version](https://img.shields.io/badge/version-1.3.4-orange.svg?style=flat-square)](https://github.com/romain-chpl/simplixTV/releases)
 [![Flutter](https://img.shields.io/badge/Flutter-%5E3.13.2-02569B.svg?style=flat-square&logo=flutter)](https://flutter.dev)
 [![Platforms](https://img.shields.io/badge/plateformes-Windows%20%7C%20Android%20%7C%20Android%20TV-blue.svg?style=flat-square)](https://github.com/romain-chpl/SimplixTV/releases)
 [![License](https://img.shields.io/badge/licence-Propriétaire%20%2F%20Non--commercial-lightgrey.svg?style=flat-square)](https://github.com/romain-chpl/SimplixTV/blob/main/LICENSE)
